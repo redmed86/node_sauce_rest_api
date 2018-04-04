@@ -1,0 +1,14 @@
+{
+  "name": "node_sauce_api_example",
+  "version": "1.0.0",
+  "description": "Example scripts to access parts of the Sauce Labs API in NodeJS",
+  "main": "build_metrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
